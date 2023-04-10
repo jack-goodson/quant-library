@@ -1,0 +1,4 @@
+# ninja log v5
+5	906	7028017752258392	CMakeFiles/quant-library.dir/futures.cpp.obj	a194d8a94f304f26
+6	884	7028025804561298	CMakeFiles/quant-library.dir/quant-library.cpp.obj	3ec608e4be13cce7
+884	1032	7028025805712704	quant-library.exe	159bf955e74f2e89
