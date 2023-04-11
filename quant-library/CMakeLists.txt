@@ -12,7 +12,7 @@ endif()
 project ("quant-library")
 
 # Add source to this project's executable.
-add_executable (quant-library "quant-library.cpp" "quant-library.h"  "hedging.h" "linear_regression.h")
+add_executable (quant-library "quant-library.cpp" "quant-library.h"  "hedging.h" "linear_regression.h" "standard_deviation.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET quant-library PROPERTY CXX_STANDARD 20)
